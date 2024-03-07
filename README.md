@@ -1,2 +1,2 @@
-# Magic_Bricks_Data_Analytics
-Analysis Done on Magic Bricks Data Based on Delhi Houses.
+# Black Friday Sales Data Analytics
+Analysis Done on Black Friday Sales occur in United States.
